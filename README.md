@@ -30,4 +30,4 @@ The battery plus side goes to the square hole and the minus goes to the circle h
 If you want the logo removed, just delete the front silkscreen file aka Love_Card-F_Silkscreen.gto
 
 Thanks if you read that and watched my youtube video about the card. I'll leave a link here too if you haven't seen it in FlavorTown:
-https://www.youtube.com/watch?v=TKKQ9AhvqFg&t=17s
+https://www.youtube.com/watch?v=TKKQ9AhvqFg&t
